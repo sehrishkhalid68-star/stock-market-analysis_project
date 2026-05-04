@@ -51,4 +51,5 @@ It focuses on understanding stock performance, risk (volatility), and daily retu
 ---
 
 ## 👨‍💻 Author
+Sehrish Khalid
 Beginner Data Analyst Portfolio Project
